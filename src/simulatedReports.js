@@ -1,0 +1,107 @@
+// Static simulated reports analyzed by Gemini AI
+export const simulatedReports = [
+  {
+    "id": 1000,
+    "image_url": "/simulated/50AEBD8ACE3A41DF8EB57FA16F42ED19.webp",
+    "latitude": 13.760760028450337,
+    "longitude": 100.50898314030398,
+    "category": "trash",
+    "description": "ขยะมูลฝอยและเศษพลาสติกจำนวนมากขวางทางระบายน้ำ",
+    "ai_confidence_score": 0.95,
+    "ai_severity_score": 65,
+    "calculated_risk_level": "Moderate",
+    "status": "pending",
+    "created_at": "2026-06-22T09:59:32.296Z"
+  },
+  {
+    "id": 1001,
+    "image_url": "/simulated/678c1b5d6e66d636f0b4e3304d006f67dee8da98.jpg",
+    "latitude": 13.73800338264822,
+    "longitude": 100.51761167821186,
+    "category": "trash",
+    "description": "ขยะมูลฝอยและเศษพลาสติกจำนวนมากขวางทางระบายน้ำ",
+    "ai_confidence_score": 0.98,
+    "ai_severity_score": 65,
+    "calculated_risk_level": "Moderate",
+    "status": "pending",
+    "created_at": "2026-06-22T06:59:36.796Z"
+  },
+  {
+    "id": 1002,
+    "image_url": "/simulated/images (1).jpg",
+    "latitude": 13.772555993989664,
+    "longitude": 100.4860384771648,
+    "category": "water_level",
+    "description": "ระดับน้ำสูงระบายไม่ทัน เอ่อล้นท่วมขังขอบฟุตบาท",
+    "ai_confidence_score": 0.92,
+    "ai_severity_score": 55,
+    "calculated_risk_level": "Moderate",
+    "status": "pending",
+    "created_at": "2026-06-22T03:59:42.925Z"
+  },
+  {
+    "id": 1003,
+    "image_url": "/simulated/images (2).jpg",
+    "latitude": 13.762846589635261,
+    "longitude": 100.4854853964129,
+    "category": "vegetation",
+    "description": "ผักตบชวาและวัชพืชโตหนาแน่นบดบังการไหลของน้ำในลำคลอง",
+    "ai_confidence_score": 0.88,
+    "ai_severity_score": 65,
+    "calculated_risk_level": "Moderate",
+    "status": "pending",
+    "created_at": "2026-06-22T00:59:54.895Z"
+  },
+  {
+    "id": 1004,
+    "image_url": "/simulated/images (3).jpg",
+    "latitude": 13.737342460069902,
+    "longitude": 100.48846117779186,
+    "category": "water_level",
+    "description": "ระดับน้ำสูงระบายไม่ทัน เอ่อล้นท่วมขังขอบฟุตบาท",
+    "ai_confidence_score": 0.9,
+    "ai_severity_score": 25,
+    "calculated_risk_level": "Low",
+    "status": "pending",
+    "created_at": "2026-06-21T22:00:03.468Z"
+  },
+  {
+    "id": 1005,
+    "image_url": "/simulated/images.jpg",
+    "latitude": 13.776264865814845,
+    "longitude": 100.48915604752696,
+    "category": "vegetation",
+    "description": "ผักตบชวาและวัชพืชโตหนาแน่นบดบังการไหลของน้ำในลำคลอง",
+    "ai_confidence_score": 0.95,
+    "ai_severity_score": 80,
+    "calculated_risk_level": "High",
+    "status": "pending",
+    "created_at": "2026-06-21T19:00:06.891Z"
+  },
+  {
+    "id": 1006,
+    "image_url": "/simulated/images (1).jpg",
+    "latitude": 13.755123,
+    "longitude": 100.491456,
+    "category": "trash",
+    "description": "โซฟาและขยะชิ้นใหญ่อุดตันปากท่อระบายน้ำหลัก เสี่ยงน้ำท่วมฉับพลัน",
+    "ai_confidence_score": 0.98,
+    "ai_severity_score": 95,
+    "calculated_risk_level": "Critical",
+    "status": "pending",
+    "created_at": "2026-07-24T10:05:00.000Z"
+  },
+  {
+    "id": 1007,
+    "image_url": "https://www.nakhonmaesotcity.go.th/frontend/images/agencies/news_photo/8611.jpg?3927",
+    "latitude": 13.712345,
+    "longitude": 100.523456,
+    "category": "trash",
+    "description": "พบขยะและสิ่งกีดขวางทางน้ำจำนวนมากสะสม ปิดกั้นการระบายน้ำ เสี่ยงต่อน้ำท่วมขังรุนแรง",
+    "ai_confidence_score": 0.97,
+    "ai_severity_score": 96,
+    "calculated_risk_level": "Critical",
+    "status": "pending",
+    "created_at": "2026-07-25T08:30:00.000Z"
+  }
+];
