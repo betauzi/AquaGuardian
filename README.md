@@ -22,6 +22,13 @@
   <img src="https://img.shields.io/badge/Data-Keyless-16A34A?style=flat-square" alt="No API keys required">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/UTCC%20AI%20Hackathon%202026-1st%20Runner--Up-F59E0B?style=for-the-badge&logo=trophy&logoColor=white" alt="UTCC AI Hackathon 2026: 1st Runner-Up">
+</p>
+
+> [!NOTE]
+> **Awarded 1st Runner-Up** at **UTCC AI Hackathon 2026: The STEM Innovation**, with a **10,000 THB scholarship**.
+
 ## The Problem
 
 When waste blocks a canal or drain, a small obstruction can become a flooding emergency. The people who see the problem first are often the people who have no quick way to report it with useful context.
